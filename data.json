@@ -1,0 +1,1073 @@
+[
+ {
+   "index": 1,
+   "country": "KOR",
+   "indicator": "FERTILITY",
+   "subject": "TOT",
+   "measure": "CHD_WOMAN",
+   "time": 1995,
+   "value": 1.6
+ },
+ {
+   "index": 2,
+   "country": "KOR",
+   "indicator": "FERTILITY",
+   "subject": "TOT",
+   "measure": "CHD_WOMAN",
+   "time": 1996,
+   "value": 1.6
+ },
+ {
+   "index": 3,
+   "country": "KOR",
+   "indicator": "FERTILITY",
+   "subject": "TOT",
+   "measure": "CHD_WOMAN",
+   "time": 1997,
+   "value": 1.5
+ },
+ {
+   "index": 4,
+   "country": "KOR",
+   "indicator": "FERTILITY",
+   "subject": "TOT",
+   "measure": "CHD_WOMAN",
+   "time": 1998,
+   "value": 1.5
+ },
+ {
+   "index": 5,
+   "country": "KOR",
+   "indicator": "FERTILITY",
+   "subject": "TOT",
+   "measure": "CHD_WOMAN",
+   "time": 1999,
+   "value": 1.4
+ },
+ {
+   "index": 6,
+   "country": "KOR",
+   "indicator": "FERTILITY",
+   "subject": "TOT",
+   "measure": "CHD_WOMAN",
+   "time": 2000,
+   "value": 1.5
+ },
+ {
+   "index": 7,
+   "country": "KOR",
+   "indicator": "FERTILITY",
+   "subject": "TOT",
+   "measure": "CHD_WOMAN",
+   "time": 2001,
+   "value": 1.3
+ },
+ {
+   "index": 8,
+   "country": "KOR",
+   "indicator": "FERTILITY",
+   "subject": "TOT",
+   "measure": "CHD_WOMAN",
+   "time": 2002,
+   "value": 1.2
+ },
+ {
+   "index": 9,
+   "country": "KOR",
+   "indicator": "FERTILITY",
+   "subject": "TOT",
+   "measure": "CHD_WOMAN",
+   "time": 2003,
+   "value": 1.2
+ },
+ {
+   "index": 10,
+   "country": "KOR",
+   "indicator": "FERTILITY",
+   "subject": "TOT",
+   "measure": "CHD_WOMAN",
+   "time": 2004,
+   "value": 1.2
+ },
+ {
+   "index": 11,
+   "country": "KOR",
+   "indicator": "FERTILITY",
+   "subject": "TOT",
+   "measure": "CHD_WOMAN",
+   "time": 2005,
+   "value": 1.1
+ },
+ {
+   "index": 12,
+   "country": "KOR",
+   "indicator": "FERTILITY",
+   "subject": "TOT",
+   "measure": "CHD_WOMAN",
+   "time": 2006,
+   "value": 1.1
+ },
+ {
+   "index": 13,
+   "country": "KOR",
+   "indicator": "FERTILITY",
+   "subject": "TOT",
+   "measure": "CHD_WOMAN",
+   "time": 2007,
+   "value": 1.3
+ },
+ {
+   "index": 14,
+   "country": "KOR",
+   "indicator": "FERTILITY",
+   "subject": "TOT",
+   "measure": "CHD_WOMAN",
+   "time": 2008,
+   "value": 1.2
+ },
+ {
+   "index": 15,
+   "country": "KOR",
+   "indicator": "FERTILITY",
+   "subject": "TOT",
+   "measure": "CHD_WOMAN",
+   "time": 2009,
+   "value": 1.1
+ },
+ {
+   "index": 16,
+   "country": "KOR",
+   "indicator": "FERTILITY",
+   "subject": "TOT",
+   "measure": "CHD_WOMAN",
+   "time": 2010,
+   "value": 1.2
+ },
+ {
+   "index": 17,
+   "country": "KOR",
+   "indicator": "FERTILITY",
+   "subject": "TOT",
+   "measure": "CHD_WOMAN",
+   "time": 2011,
+   "value": 1.2
+ },
+ {
+   "index": 18,
+   "country": "KOR",
+   "indicator": "FERTILITY",
+   "subject": "TOT",
+   "measure": "CHD_WOMAN",
+   "time": 2012,
+   "value": 1.3
+ },
+ {
+   "index": 19,
+   "country": "KOR",
+   "indicator": "FERTILITY",
+   "subject": "TOT",
+   "measure": "CHD_WOMAN",
+   "time": 2013,
+   "value": 1.2
+ },
+ {
+   "index": 20,
+   "country": "KOR",
+   "indicator": "FERTILITY",
+   "subject": "TOT",
+   "measure": "CHD_WOMAN",
+   "time": 2014,
+   "value": 1.2
+ },
+ {
+   "index": 21,
+   "country": "KOR",
+   "indicator": "FERTILITY",
+   "subject": "TOT",
+   "measure": "CHD_WOMAN",
+   "time": 2015,
+   "value": 1.2
+ },
+ {
+   "index": 22,
+   "country": "KOR",
+   "indicator": "FERTILITY",
+   "subject": "TOT",
+   "measure": "CHD_WOMAN",
+   "time": 2016,
+   "value": 1.2
+ },
+ {
+   "index": 23,
+   "country": "KOR",
+   "indicator": "FERTILITY",
+   "subject": "TOT",
+   "measure": "CHD_WOMAN",
+   "time": 2017,
+   "value": 1.1
+ },
+ {
+   "index": 24,
+   "country": "KOR",
+   "indicator": "FERTILITY",
+   "subject": "TOT",
+   "measure": "CHD_WOMAN",
+   "time": 2018,
+   "value": 1
+ },
+ {
+   "index": 25,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "NET",
+   "measure": "AGRWTH",
+   "time": 1995,
+   "value": 5.444250424
+ },
+ {
+   "index": 26,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "NET",
+   "measure": "AGRWTH",
+   "time": 1996,
+   "value": 6.077501626
+ },
+ {
+   "index": 27,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "NET",
+   "measure": "AGRWTH",
+   "time": 1997,
+   "value": 1.744101749
+ },
+ {
+   "index": 28,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "NET",
+   "measure": "AGRWTH",
+   "time": 1998,
+   "value": -2.611124704
+ },
+ {
+   "index": 29,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "NET",
+   "measure": "AGRWTH",
+   "time": 1999,
+   "value": 2.407781421
+ },
+ {
+   "index": 30,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "NET",
+   "measure": "AGRWTH",
+   "time": 2000,
+   "value": 0.791673526
+ },
+ {
+   "index": 31,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "NET",
+   "measure": "AGRWTH",
+   "time": 2001,
+   "value": 2.790018851
+ },
+ {
+   "index": 32,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "NET",
+   "measure": "AGRWTH",
+   "time": 2002,
+   "value": 4.563779686
+ },
+ {
+   "index": 33,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "NET",
+   "measure": "AGRWTH",
+   "time": 2003,
+   "value": 2.265848589
+ },
+ {
+   "index": 34,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "NET",
+   "measure": "AGRWTH",
+   "time": 2004,
+   "value": 4.689429161
+ },
+ {
+   "index": 35,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "NET",
+   "measure": "AGRWTH",
+   "time": 2005,
+   "value": 2.320798244
+ },
+ {
+   "index": 36,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "NET",
+   "measure": "AGRWTH",
+   "time": 2006,
+   "value": 3.774819571
+ },
+ {
+   "index": 37,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "NET",
+   "measure": "AGRWTH",
+   "time": 2007,
+   "value": 4.712786197
+ },
+ {
+   "index": 38,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "NET",
+   "measure": "AGRWTH",
+   "time": 2008,
+   "value": 2.175467009
+ },
+ {
+   "index": 39,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "NET",
+   "measure": "AGRWTH",
+   "time": 2009,
+   "value": 1.640529453
+ },
+ {
+   "index": 40,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "NET",
+   "measure": "AGRWTH",
+   "time": 2010,
+   "value": 4.192659918
+ },
+ {
+   "index": 41,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "NET",
+   "measure": "AGRWTH",
+   "time": 2011,
+   "value": 2.256896121
+ },
+ {
+   "index": 42,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "NET",
+   "measure": "AGRWTH",
+   "time": 2012,
+   "value": 2.483774112
+ },
+ {
+   "index": 43,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "NET",
+   "measure": "AGRWTH",
+   "time": 2013,
+   "value": 4.053958032
+ },
+ {
+   "index": 44,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "NET",
+   "measure": "AGRWTH",
+   "time": 2014,
+   "value": 3.559237106
+ },
+ {
+   "index": 45,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "NET",
+   "measure": "AGRWTH",
+   "time": 2015,
+   "value": 5.708392533
+ },
+ {
+   "index": 46,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "NET",
+   "measure": "AGRWTH",
+   "time": 2016,
+   "value": 1.717186232
+ },
+ {
+   "index": 47,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "NET",
+   "measure": "AGRWTH",
+   "time": 2017,
+   "value": 1.816822754
+ },
+ {
+   "index": 48,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "NET",
+   "measure": "AGRWTH",
+   "time": 2018,
+   "value": 3.386587743
+ },
+ {
+   "index": 49,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "GROSSADJ",
+   "measure": "USD_CAP",
+   "time": 1995,
+   "value": 10662.15986
+ },
+ {
+   "index": 50,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "GROSSADJ",
+   "measure": "USD_CAP",
+   "time": 1996,
+   "value": 11472.2627
+ },
+ {
+   "index": 51,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "GROSSADJ",
+   "measure": "USD_CAP",
+   "time": 1997,
+   "value": 11771.41064
+ },
+ {
+   "index": 52,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "GROSSADJ",
+   "measure": "USD_CAP",
+   "time": 1998,
+   "value": 11658.73604
+ },
+ {
+   "index": 53,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "GROSSADJ",
+   "measure": "USD_CAP",
+   "time": 1999,
+   "value": 11982.71237
+ },
+ {
+   "index": 54,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "GROSSADJ",
+   "measure": "USD_CAP",
+   "time": 2000,
+   "value": 12498.03306
+ },
+ {
+   "index": 55,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "GROSSADJ",
+   "measure": "USD_CAP",
+   "time": 2001,
+   "value": 13026.50203
+ },
+ {
+   "index": 56,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "GROSSADJ",
+   "measure": "USD_CAP",
+   "time": 2002,
+   "value": 13878.62197
+ },
+ {
+   "index": 57,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "GROSSADJ",
+   "measure": "USD_CAP",
+   "time": 2003,
+   "value": 14252.56415
+ },
+ {
+   "index": 58,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "GROSSADJ",
+   "measure": "USD_CAP",
+   "time": 2004,
+   "value": 15236.45433
+ },
+ {
+   "index": 59,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "GROSSADJ",
+   "measure": "USD_CAP",
+   "time": 2005,
+   "value": 15814.99672
+ },
+ {
+   "index": 60,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "GROSSADJ",
+   "measure": "USD_CAP",
+   "time": 2006,
+   "value": 16648.63278
+ },
+ {
+   "index": 61,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "GROSSADJ",
+   "measure": "USD_CAP",
+   "time": 2007,
+   "value": 17801.68929
+ },
+ {
+   "index": 62,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "GROSSADJ",
+   "measure": "USD_CAP",
+   "time": 2008,
+   "value": 18514.72667
+ },
+ {
+   "index": 63,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "GROSSADJ",
+   "measure": "USD_CAP",
+   "time": 2009,
+   "value": 18664.51753
+ },
+ {
+   "index": 64,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "GROSSADJ",
+   "measure": "USD_CAP",
+   "time": 2010,
+   "value": 19684.53744
+ },
+ {
+   "index": 65,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "GROSSADJ",
+   "measure": "USD_CAP",
+   "time": 2011,
+   "value": 20438.86474
+ },
+ {
+   "index": 66,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "GROSSADJ",
+   "measure": "USD_CAP",
+   "time": 2012,
+   "value": 21244.04125
+ },
+ {
+   "index": 67,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "GROSSADJ",
+   "measure": "USD_CAP",
+   "time": 2013,
+   "value": 21573.31991
+ },
+ {
+   "index": 68,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "GROSSADJ",
+   "measure": "USD_CAP",
+   "time": 2014,
+   "value": 21915.95578
+ },
+ {
+   "index": 69,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "GROSSADJ",
+   "measure": "USD_CAP",
+   "time": 2015,
+   "value": 23958.29683
+ },
+ {
+   "index": 70,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "GROSSADJ",
+   "measure": "USD_CAP",
+   "time": 2016,
+   "value": 24190.59773
+ },
+ {
+   "index": 71,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "GROSSADJ",
+   "measure": "USD_CAP",
+   "time": 2017,
+   "value": 24484.53504
+ },
+ {
+   "index": 72,
+   "country": "KOR",
+   "indicator": "HHDI",
+   "subject": "GROSSADJ",
+   "measure": "USD_CAP",
+   "time": 2018,
+   "value": 25845.03538
+ },
+ {
+   "index": 73,
+   "country": "KOR",
+   "indicator": "HOUSECOST",
+   "subject": "NOMINAL",
+   "measure": "IDX2015",
+   "time": 1995,
+   "value": 55.29483818
+ },
+ {
+   "index": 74,
+   "country": "KOR",
+   "indicator": "HOUSECOST",
+   "subject": "NOMINAL",
+   "measure": "IDX2015",
+   "time": 1996,
+   "value": 55.68589871
+ },
+ {
+   "index": 75,
+   "country": "KOR",
+   "indicator": "HOUSECOST",
+   "subject": "NOMINAL",
+   "measure": "IDX2015",
+   "time": 1997,
+   "value": 57.33613335
+ },
+ {
+   "index": 76,
+   "country": "KOR",
+   "indicator": "HOUSECOST",
+   "subject": "NOMINAL",
+   "measure": "IDX2015",
+   "time": 1998,
+   "value": 52.0569217
+ },
+ {
+   "index": 77,
+   "country": "KOR",
+   "indicator": "HOUSECOST",
+   "subject": "NOMINAL",
+   "measure": "IDX2015",
+   "time": 1999,
+   "value": 51.39216337
+ },
+ {
+   "index": 78,
+   "country": "KOR",
+   "indicator": "HOUSECOST",
+   "subject": "NOMINAL",
+   "measure": "IDX2015",
+   "time": 2000,
+   "value": 52.33066642
+ },
+ {
+   "index": 79,
+   "country": "KOR",
+   "indicator": "HOUSECOST",
+   "subject": "NOMINAL",
+   "measure": "IDX2015",
+   "time": 2001,
+   "value": 54.39540129
+ },
+ {
+   "index": 80,
+   "country": "KOR",
+   "indicator": "HOUSECOST",
+   "subject": "NOMINAL",
+   "measure": "IDX2015",
+   "time": 2002,
+   "value": 63.44439239
+ },
+ {
+   "index": 81,
+   "country": "KOR",
+   "indicator": "HOUSECOST",
+   "subject": "NOMINAL",
+   "measure": "IDX2015",
+   "time": 2003,
+   "value": 69.17724083
+ },
+ {
+   "index": 82,
+   "country": "KOR",
+   "indicator": "HOUSECOST",
+   "subject": "NOMINAL",
+   "measure": "IDX2015",
+   "time": 2004,
+   "value": 69.64914414
+ },
+ {
+   "index": 83,
+   "country": "KOR",
+   "indicator": "HOUSECOST",
+   "subject": "NOMINAL",
+   "measure": "IDX2015",
+   "time": 2005,
+   "value": 70.37861633
+ },
+ {
+   "index": 84,
+   "country": "KOR",
+   "indicator": "HOUSECOST",
+   "subject": "NOMINAL",
+   "measure": "IDX2015",
+   "time": 2006,
+   "value": 75.07737978
+ },
+ {
+   "index": 85,
+   "country": "KOR",
+   "indicator": "HOUSECOST",
+   "subject": "NOMINAL",
+   "measure": "IDX2015",
+   "time": 2007,
+   "value": 82.57903882
+ },
+ {
+   "index": 86,
+   "country": "KOR",
+   "indicator": "HOUSECOST",
+   "subject": "NOMINAL",
+   "measure": "IDX2015",
+   "time": 2008,
+   "value": 88.43330648
+ },
+ {
+   "index": 87,
+   "country": "KOR",
+   "indicator": "HOUSECOST",
+   "subject": "NOMINAL",
+   "measure": "IDX2015",
+   "time": 2009,
+   "value": 89.21799567
+ },
+ {
+   "index": 88,
+   "country": "KOR",
+   "indicator": "HOUSECOST",
+   "subject": "NOMINAL",
+   "measure": "IDX2015",
+   "time": 2010,
+   "value": 91.17946536
+ },
+ {
+   "index": 89,
+   "country": "KOR",
+   "indicator": "HOUSECOST",
+   "subject": "NOMINAL",
+   "measure": "IDX2015",
+   "time": 2011,
+   "value": 95.64115034
+ },
+ {
+   "index": 90,
+   "country": "KOR",
+   "indicator": "HOUSECOST",
+   "subject": "NOMINAL",
+   "measure": "IDX2015",
+   "time": 2012,
+   "value": 96.81843741
+ },
+ {
+   "index": 91,
+   "country": "KOR",
+   "indicator": "HOUSECOST",
+   "subject": "NOMINAL",
+   "measure": "IDX2015",
+   "time": 2013,
+   "value": 95.76956784
+ },
+ {
+   "index": 92,
+   "country": "KOR",
+   "indicator": "HOUSECOST",
+   "subject": "NOMINAL",
+   "measure": "IDX2015",
+   "time": 2014,
+   "value": 97.27157135
+ },
+ {
+   "index": 93,
+   "country": "KOR",
+   "indicator": "HOUSECOST",
+   "subject": "NOMINAL",
+   "measure": "IDX2015",
+   "time": 2015,
+   "value": 100
+ },
+ {
+   "index": 94,
+   "country": "KOR",
+   "indicator": "HOUSECOST",
+   "subject": "NOMINAL",
+   "measure": "IDX2015",
+   "time": 2016,
+   "value": 101.6215559
+ },
+ {
+   "index": 95,
+   "country": "KOR",
+   "indicator": "HOUSECOST",
+   "subject": "NOMINAL",
+   "measure": "IDX2015",
+   "time": 2017,
+   "value": 102.8535534
+ },
+ {
+   "index": 96,
+   "country": "KOR",
+   "indicator": "HOUSECOST",
+   "subject": "NOMINAL",
+   "measure": "IDX2015",
+   "time": 2018,
+   "value": 104.2752643
+ },
+ {
+   "index": 97,
+   "country": "KOR",
+   "indicator": "EDUTRY",
+   "subject": "25_34",
+   "measure": "PC_AGE",
+   "time": 1995,
+   "value": 28.806385
+ },
+ {
+   "index": 98,
+   "country": "KOR",
+   "indicator": "EDUTRY",
+   "subject": "25_34",
+   "measure": "PC_AGE",
+   "time": 1997,
+   "value": 30.871248
+ },
+ {
+   "index": 99,
+   "country": "KOR",
+   "indicator": "EDUTRY",
+   "subject": "25_34",
+   "measure": "PC_AGE",
+   "time": 1998,
+   "value": 33.83152
+ },
+ {
+   "index": 100,
+   "country": "KOR",
+   "indicator": "EDUTRY",
+   "subject": "25_34",
+   "measure": "PC_AGE",
+   "time": 1999,
+   "value": 34.837105
+ },
+ {
+   "index": 101,
+   "country": "KOR",
+   "indicator": "EDUTRY",
+   "subject": "25_34",
+   "measure": "PC_AGE",
+   "time": 2000,
+   "value": 36.81242
+ },
+ {
+   "index": 102,
+   "country": "KOR",
+   "indicator": "EDUTRY",
+   "subject": "25_34",
+   "measure": "PC_AGE",
+   "time": 2001,
+   "value": 38.955528
+ },
+ {
+   "index": 103,
+   "country": "KOR",
+   "indicator": "EDUTRY",
+   "subject": "25_34",
+   "measure": "PC_AGE",
+   "time": 2002,
+   "value": 41.017273
+ },
+ {
+   "index": 104,
+   "country": "KOR",
+   "indicator": "EDUTRY",
+   "subject": "25_34",
+   "measure": "PC_AGE",
+   "time": 2003,
+   "value": 46.514172
+ },
+ {
+   "index": 105,
+   "country": "KOR",
+   "indicator": "EDUTRY",
+   "subject": "25_34",
+   "measure": "PC_AGE",
+   "time": 2004,
+   "value": 49.056168
+ },
+ {
+   "index": 106,
+   "country": "KOR",
+   "indicator": "EDUTRY",
+   "subject": "25_34",
+   "measure": "PC_AGE",
+   "time": 2005,
+   "value": 50.858059
+ },
+ {
+   "index": 107,
+   "country": "KOR",
+   "indicator": "EDUTRY",
+   "subject": "25_34",
+   "measure": "PC_AGE",
+   "time": 2006,
+   "value": 52.953865
+ },
+ {
+   "index": 108,
+   "country": "KOR",
+   "indicator": "EDUTRY",
+   "subject": "25_34",
+   "measure": "PC_AGE",
+   "time": 2007,
+   "value": 55.490356
+ },
+ {
+   "index": 109,
+   "country": "KOR",
+   "indicator": "EDUTRY",
+   "subject": "25_34",
+   "measure": "PC_AGE",
+   "time": 2008,
+   "value": 57.842369
+ },
+ {
+   "index": 110,
+   "country": "KOR",
+   "indicator": "EDUTRY",
+   "subject": "25_34",
+   "measure": "PC_AGE",
+   "time": 2009,
+   "value": 60.575958
+ },
+ {
+   "index": 111,
+   "country": "KOR",
+   "indicator": "EDUTRY",
+   "subject": "25_34",
+   "measure": "PC_AGE",
+   "time": 2010,
+   "value": 61.449047
+ },
+ {
+   "index": 112,
+   "country": "KOR",
+   "indicator": "EDUTRY",
+   "subject": "25_34",
+   "measure": "PC_AGE",
+   "time": 2011,
+   "value": 63.734528
+ },
+ {
+   "index": 113,
+   "country": "KOR",
+   "indicator": "EDUTRY",
+   "subject": "25_34",
+   "measure": "PC_AGE",
+   "time": 2012,
+   "value": 65.603264
+ },
+ {
+   "index": 114,
+   "country": "KOR",
+   "indicator": "EDUTRY",
+   "subject": "25_34",
+   "measure": "PC_AGE",
+   "time": 2013,
+   "value": 67.088554
+ },
+ {
+   "index": 115,
+   "country": "KOR",
+   "indicator": "EDUTRY",
+   "subject": "25_34",
+   "measure": "PC_AGE",
+   "time": 2014,
+   "value": 67.665947
+ },
+ {
+   "index": 116,
+   "country": "KOR",
+   "indicator": "EDUTRY",
+   "subject": "25_34",
+   "measure": "PC_AGE",
+   "time": 2015,
+   "value": 68.861946
+ },
+ {
+   "index": 117,
+   "country": "KOR",
+   "indicator": "EDUTRY",
+   "subject": "25_34",
+   "measure": "PC_AGE",
+   "time": 2016,
+   "value": 69.851555
+ },
+ {
+   "index": 118,
+   "country": "KOR",
+   "indicator": "EDUTRY",
+   "subject": "25_34",
+   "measure": "PC_AGE",
+   "time": 2017,
+   "value": 69.752068
+ },
+ {
+   "index": 119,
+   "country": "KOR",
+   "indicator": "EDUTRY",
+   "subject": "25_34",
+   "measure": "PC_AGE",
+   "time": 2018,
+   "value": 69.574219
+ }
+]
